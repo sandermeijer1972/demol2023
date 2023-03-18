@@ -1,14 +1,18 @@
 body {
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
+    max-width: 460px;
     background-color: #050505;
     color: white;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
     text-align: center;
-    font-size: 24px;
+    font-size: 36px;
     margin: 20px;
+    color: yellow;
+    font-weight: bold;
 }
 
 .terug {
@@ -26,14 +30,19 @@ header {
 }
 
 .aflevering {
-    margin: 10px;
+    margin: 10px 10px 50px;
+}
+
+.nummer {
+    font-size: 20px;
+    margin-bottom: 10px;
 }
 
 .punten {
     border: 2px solid #071A18;
     border-radius: 10px;
     color: gray;
-    margin: 5px 30px;
+    margin: 5px 20px;
     padding: 10px;
 }
 
@@ -52,8 +61,16 @@ span {
     border-radius: 25px;
 }
 
+.uit img {
+    filter: grayscale(1);
+}
+
 .kandidaat p {
     text-align: center;
     margin-top: 5px;
-    color: white;
+    color: #00FF00;
+}
+
+.uit p {
+    color: red;
 }
