@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #050505;
+    color: white;
+}
+
+header {
+    text-align: center;
+    font-size: 24px;
+    margin: 20px;
+}
+
+.terug {
+    text-align: right;
+    padding: 20px;
+}
+
+.terug a {
+    color: white;
+    text-decoration: none;
+}
+
+.terug a:hover {
+    color: yellow;
+}
+
+.punten {
+    border: 2px solid #071A18;
+    border-radius: 10px;
+    color: gray;
+    margin: 30px;
+    padding: 10px;
+}
+
+span {
+    color: white;
+    font-weight: bold;
+}
+
+.inzet {
+    display: flex;
+    flex-direction: row;
+}
+
+.kandidaat img {
+    width: 50px;
+    border-radius: 25px;
+}
+
+.kandidaat p {
+    text-align: center;
+    margin-top: 5px;
+    color: white;
+}

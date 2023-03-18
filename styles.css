@@ -12,6 +12,15 @@ img {
     max-width: 100%;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+}
+
 header {
     font-size: 25px;
     margin-bottom: 30px;
