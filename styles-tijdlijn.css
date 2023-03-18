@@ -25,11 +25,15 @@ header {
     color: yellow;
 }
 
+.aflevering {
+    margin: 10px;
+}
+
 .punten {
     border: 2px solid #071A18;
     border-radius: 10px;
     color: gray;
-    margin: 30px;
+    margin: 5px 30px;
     padding: 10px;
 }
 
