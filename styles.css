@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #071A18;
+    /* background-color: #050505; */
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+header {
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+ul {
+    text-align: left;
+    list-style-type: circle;
+}
+
+li {
+    margin: 20px;
+}
