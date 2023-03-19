@@ -8,6 +8,22 @@ body {
     text-align: center;
 }
 
+img {
+    max-width: 100%;
+}
+
+header {
+    text-align: center;
+    font-size: 36px;
+    margin: 0 0 20px;
+    color: yellow;
+    font-weight: bold;
+}
+
+header p {
+    margin: 5px;
+}
+
 main {
     display: flex;
     flex-direction: column;
@@ -25,4 +41,59 @@ main {
 
 .terug a:hover {
     color: yellow;
+}
+
+.kandidaat {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 50px 20px;
+    grid-template-areas: "P G";
+}
+
+.kandidaat:nth-child(odd) {
+    grid-template-areas: "G P";
+}
+
+.photo {
+    grid-area: P;
+}
+
+.photo img {
+    width: 150px;
+    border-radius: 75px;
+    border: 5px solid #00FF00;
+}
+
+.uit img {
+    filter: grayscale(1);
+}
+
+.gegevens {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;  
+    grid-area: G;  
+}
+
+.name {
+    color: #00FF00;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.uit .name {
+    color: red;
+}
+
+.age {
+    font-size: 24px;
+}
+
+.prof {
+    font-size: 20px;
+}
+
+.city {
+    font-size: 20px;
 }
