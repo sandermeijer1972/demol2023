@@ -54,6 +54,7 @@ span {
 .inzet {
     display: flex;
     flex-direction: row;
+    gap: 5px;
 }
 
 .kandidaat img {
@@ -69,6 +70,13 @@ span {
     text-align: center;
     margin-top: 5px;
     color: #00FF00;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.kandidaat div {
+    text-align: center;
+    font-size: 12px;
 }
 
 .uit p {
