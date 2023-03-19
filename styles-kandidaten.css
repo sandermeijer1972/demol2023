@@ -12,3 +12,17 @@ main {
     display: flex;
     flex-direction: column;
 }
+
+.terug {
+    text-align: right;
+    padding: 20px;
+}
+
+.terug a {
+    color: white;
+    text-decoration: none;
+}
+
+.terug a:hover {
+    color: yellow;
+}
