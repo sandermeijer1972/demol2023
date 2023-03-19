@@ -28,6 +28,10 @@ header {
     margin-bottom: 30px;
 }
 
+.kandidaten {
+    font-size: 22px;
+}
+
 ul {
     text-align: left;
     list-style-type: circle;
