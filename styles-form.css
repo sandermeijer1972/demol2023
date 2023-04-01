@@ -62,10 +62,16 @@ button {
 
 .succes {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     max-width: 640px;
-    margin-top: 150px;
+    margin-top: 120px;
+    gap: 40px;
+}
+
+.succes div {
+    font-size: 20px;
 }
 
 .succes a:link {
