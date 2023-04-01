@@ -1,0 +1,85 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    max-width: 460px;
+    background-color: #071A18;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    text-align: center;
+    font-size: 36px;
+    margin: 10px 0 20px;
+    color: yellow;
+    font-weight: bold;
+}
+
+header p {
+    margin: 5px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.naam {
+    font-size: 20px;
+    padding: 5px;
+    margin: 10px 10px 50px;
+}
+
+.vraag {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    margin: 10px 10px 50px;
+}
+
+.vraag div:nth-child(2) {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 18px;
+    color: yellow;
+}
+
+textarea {
+    font-size: 20px;
+    padding: 5px;
+}
+
+button {
+    margin-top: 50px;
+    padding: 10px;
+    background-color: yellow;
+    border-radius: 5px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.succes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 640px;
+    margin-top: 150px;
+}
+
+.succes a:link {
+    color: white;
+    text-decoration: none;
+    font-size: 26px;
+}
+
+.succes a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.succes a:hover {
+    color: yellow;
+    text-decoration: none;
+}
