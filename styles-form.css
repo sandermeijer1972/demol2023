@@ -89,3 +89,17 @@ button {
     color: yellow;
     text-decoration: none;
 }
+
+.terug {
+    text-align: right;
+    padding: 20px;
+}
+
+.terug a {
+    color: white;
+    text-decoration: none;
+}
+
+.terug a:hover {
+    color: yellow;
+}
