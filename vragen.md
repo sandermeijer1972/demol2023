@@ -10,3 +10,16 @@ wat deed de mol tijdens de treinopdracht
 -B bouwen op de prairie - Thomas-Toos-Ruben-Conny
 -C de mol zat vastgebonden
 
+vraag 3
+in welk groepje zat de mol tijdens de eier-verzamel opdracht
+-A groepje vertrouwen - Leïla-Lieselot
+-b groepje handig - Toos-Thomas-Comfort
+-C groepje ingenieurs - Conny-Ruben-Lancelot
+
+vraag 4
+tot waar kwam de mol in de lanceerbunker?
+-A de kamer met het mijnenveld - Leila-Comfort-Ruben
+-B de kamer met de bom - Thomas-Toos
+-C de pasvragen - Lieselot-Lancelot
+
+
