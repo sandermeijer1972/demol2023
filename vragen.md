@@ -22,4 +22,8 @@ tot waar kwam de mol in de lanceerbunker?
 -B de kamer met de bom - Thomas-Toos
 -C de pasvragen - Lieselot-Lancelot
 
+vraag 5
+had de mol een amnnelijke of vrouwelijke hulprobot?
+-A mannelijk
+-B vrouwelijk
 
