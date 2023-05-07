@@ -23,7 +23,17 @@ tot waar kwam de mol in de lanceerbunker?
 -C de pasvragen - Lieselot-Lancelot
 
 vraag 5
-had de mol een amnnelijke of vrouwelijke hulprobot?
--A mannelijk
--B vrouwelijk
+had de mol een mannelijke of vrouwelijke hulprobot?
+-A mannelijk - Comfort
+-B vrouwelijk - Ruben-Thomas-Toos-Lieselot-Lancelot
 
+vraag 6
+waar was de mol met de busopdracht?
+-A in de bus - Thomas-Toos-Lancelot
+-B in de auto - Comfort-Ruben
+
+vraag 7
+is de mol neergeschoten tijdens de shoot-out?
+-A ja de mol werd geraakt - Comfort-Lancelot
+-B nee de mol schoot iemand anders neer - Ruben
+-C nee de mol schoot op het bord - Toos
